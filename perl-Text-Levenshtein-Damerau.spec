@@ -4,7 +4,7 @@
 #
 Name     : perl-Text-Levenshtein-Damerau
 Version  : 0.41
-Release  : 12
+Release  : 13
 URL      : https://cpan.metacpan.org/authors/id/U/UG/UGEXE/Text-Levenshtein-Damerau-0.41.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/U/UG/UGEXE/Text-Levenshtein-Damerau-0.41.tar.gz
 Source1  : http://http.debian.net/debian/pool/main/libt/libtext-levenshtein-damerau-perl/libtext-levenshtein-damerau-perl_0.41-1.debian.tar.xz
@@ -104,5 +104,5 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.30.3/Text/Levenshtein/Damerau.pm
-/usr/lib/perl5/vendor_perl/5.30.3/Text/Levenshtein/Damerau/PP.pm
+/usr/lib/perl5/vendor_perl/5.32.1/Text/Levenshtein/Damerau.pm
+/usr/lib/perl5/vendor_perl/5.32.1/Text/Levenshtein/Damerau/PP.pm
