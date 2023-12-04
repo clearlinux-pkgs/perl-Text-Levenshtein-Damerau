@@ -4,7 +4,7 @@
 #
 Name     : perl-Text-Levenshtein-Damerau
 Version  : 0.41
-Release  : 22
+Release  : 23
 URL      : https://cpan.metacpan.org/authors/id/U/UG/UGEXE/Text-Levenshtein-Damerau-0.41.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/U/UG/UGEXE/Text-Levenshtein-Damerau-0.41.tar.gz
 Source1  : http://http.debian.net/debian/pool/main/libt/libtext-levenshtein-damerau-perl/libtext-levenshtein-damerau-perl_0.41-1.debian.tar.xz
